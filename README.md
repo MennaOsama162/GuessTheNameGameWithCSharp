@@ -22,7 +22,7 @@ Prerequisites
 C# development environment (e.g., Visual Studio)
 Basic understanding of C# programming, networking concepts, and software development principles
 Cloning the Repository
-git clone https://github.com/malekwanas/Guess-The-Name-Server-Client.git
+git clone 
 Use code with caution.
 
 Setting Up the Project
